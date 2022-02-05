@@ -1,5 +1,8 @@
-# Python-Basic-Assignment
-
+# Python-Basic-Assignment  
+  
+  **_Solutions are available in Jupyter notebook files in the repository_**  
+  
+  
 ## Assignment 1 Questions
 
 1. In the below elements which of them are values or an expression? eg:- values can be integer or string and expressions will be mathematical operators.  
